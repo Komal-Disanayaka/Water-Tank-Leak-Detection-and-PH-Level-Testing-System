@@ -157,7 +157,6 @@ Leakage stops
 2. Power sensors and valves properly  
 3. Open Bluetooth app and pair with **HC-05**  
 4. Monitor live readings  
-5. Press reset switch if leak mode activates  
 
 ---
 
